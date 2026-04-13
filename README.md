@@ -4,7 +4,7 @@
 
 **AI Engineering Student · Quant Finance Enthusiast · Low-Latency Systems**
 
-*ESEO Angers (2022–2027) · Work-Study AI Engineer @ SNCF*
+*ESEO Angers (2022–2027) · Work-Study AI Engineer - SNCF*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-gabriel-pereira-de-almeida-9a3b46260/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugogpdealmeida@gmail.com)
