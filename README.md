@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hugo Pereira de Almeida
+# Hugo Gabriel Pereira de Almeida
 
 **AI Engineering Student · Quant Finance Enthusiast · Low-Latency Systems**
 
