@@ -23,6 +23,13 @@ Currently building real-world quant infrastructure while deepening my understand
 
 ## 🔬 Active Projects
 
+### [Hierarchical-liquid-ppo](https://github.com/Henix212/hierarchical-liquid-ppo.git) - Hierarchical crypto allocation
+> *Python · Liquid Neural Network · PPO*
+
+Hierarchical cryptocurrency portfolio allocation: HRP-style clustering, daily per-cluster Liquid Neural Networks (CfC), and a weekly PPO meta-allocator with an LNN-stables safe sleeve. Evaluated with expanding walk-forward OOS tests (2022–2024) under realistic transaction costs vs equal-weight, BTC buy-and-hold, and mean–variance baselines
+
+---
+
 ### [UDS-OB-HFT](https://github.com/Henix212/UDS-OB-HFT) — C++ Order Book & HFT Engine
 > *C++ · Unix Domain Sockets · Market Microstructure*
 
